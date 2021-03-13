@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RJGJ
+- 👋 Hi, I’m Rollie John
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Rest Framework
 - 💞️ I’m looking to collaborate on awesome projects
